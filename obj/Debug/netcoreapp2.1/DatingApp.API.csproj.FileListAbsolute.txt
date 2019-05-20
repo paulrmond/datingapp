@@ -1,0 +1,6 @@
+F:\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
+F:\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csproj.CoreCompileInputs.cache
+F:\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cache
+F:\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cs
+F:\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfoInputs.cache
+F:\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfo.cs
